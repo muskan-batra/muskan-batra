@@ -25,10 +25,8 @@
 <p>
 <h2>Programming Languages </h2>
 - C++
-
-- java
-
-- C#
+-java
+-C#
 </p>
 
 <p>
