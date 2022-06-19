@@ -9,7 +9,7 @@
 
 
 <p>
-  I am Final Year student in COMPUTER SCIENCE at Sukkur iba university 
+  I am Final Year student in COMPUTER SCIENCE at Sukkur Iba University 
 </p>
 <p>
    In the past 3 years, i have got practical and theoritical experience in the field of MOBILE APP Developemt, WEB APP and DESKTOP APP DEVELOPEMENT.
