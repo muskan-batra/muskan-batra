@@ -12,7 +12,7 @@
   I am Final Year student in COMPUTER SCIENCE at Sukkur Iba University 
 </p>
 <p>
-   In the past 3 years, i have got practical and theoritical experience in the field of MOBILE APP Developemt, WEB APP and DESKTOP APP DEVELOPEMENT.
+   In the past 4 years, i have got practical and theoritical experience in the field of MOBILE APP Developemt, WEB APP and DESKTOP APP DEVELOPEMENT.
  </P>
  <P>
    My technical stack include market demanding skills forexample React Js, Node Js, Express Js, Andriod, Flutter.
