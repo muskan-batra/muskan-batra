@@ -28,27 +28,5 @@ I have experience with the following programming languages and technologies:
 - **Web Development**: HTML, CSS, JavaScript, Node.js, React.js.
 - **Databases**: MySQL, MongoDB.
 - **Tools**: Git, Visual Studio Code, IntelliJ IDEA, Eclipse
-<p>
-<h2>Front end developement </h2>
-- Reactjs
-- Html
-- CSS
-- JQUERY 
-</p>
-
-
-<p>
-<h2>Backend developement </h2>
-- Nodejs 
-- expressjs 
-</p>
-
-<p>
-<h2>Database </h2>
-- MYSQL
-- Mongodb
-
-</p>
-
 
 
