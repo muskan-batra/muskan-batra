@@ -1,6 +1,4 @@
-<h1 align="center" :grinning:>
- Hello There :grinning: :wink:
-</h1>
+#  Hi there! 👋
 
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/Hello.gif" width="40" height="40" />
