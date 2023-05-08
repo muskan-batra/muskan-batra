@@ -20,13 +20,14 @@
 </p>
 
 
-<p>
-<h2>Programming Languages </h2>
-- C++
--java
--C#
-</p>
+## 🌱 My Skills
 
+I have experience with the following programming languages and technologies:
+
+- **Programming Languages**: Java, Python, C++, JavaScript.
+- **Web Development**: HTML, CSS, JavaScript, Node.js, React.js.
+- **Databases**: MySQL, MongoDB.
+- **Tools**: Git, Visual Studio Code, IntelliJ IDEA, Eclipse
 <p>
 <h2>Front end developement </h2>
 - Reactjs
